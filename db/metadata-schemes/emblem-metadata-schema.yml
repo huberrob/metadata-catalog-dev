@@ -1,0 +1,17 @@
+description: The Emblem XML-Schema was created in the emblematica online project and bases on Stephen Rawles Spine of Information Headings for Emblem-Related Electronic Resources.
+identifiers:
+- id: msc:m1016
+  scheme: RDA-MSCWG
+- id: https://fairsharing.org/4654
+  scheme: FAIRsharing
+locations:
+- type: namespace
+  url: http://diglib.hab.de/rules/schema/emblem
+- type: XSD
+  url: http://diglib.hab.de/rules/schema/emblem/emblem-1-3.xsd
+- type: XSD
+  url: http://diglib.hab.de/rules/schema/emblem/emblem-1-2.xsd
+title: Emblem XML-Schema
+keywords:
+- Humanities
+acronym: Emblem

@@ -1,0 +1,14 @@
+description: SCHOLIX Metadata Schema
+identifiers:
+- id: msc:m1028
+  scheme: RDA-MSCWG
+locations:
+- type: document
+  url: http://www.scholix.org/schema
+- type: namespace
+  url: http://www.scholix.org
+- type: XSD
+  url: https://github.com/scholix/schema/blob/master/xsd/v3/schema.xsd
+- type: XSD
+  url: https://github.com/scholix/schema/blob/master/xsd/v1/scholix.xsd
+acronym: scholix

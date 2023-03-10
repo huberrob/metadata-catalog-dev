@@ -5,6 +5,8 @@ description: <p>A basic, domain-agnostic standard which can be easily understood
 identifiers:
 - id: msc:m15
   scheme: RDA-MSCWG
+- id: https://doi.org/10.25504/FAIRsharing.3nx7t
+  scheme: FAIRsharing
 keywords:
 - Multidisciplinary
 locations:
@@ -30,14 +32,13 @@ locations:
   url: http://dublincore.org/schemas/xmls/qdc/dcterms.xsd
 - type: XSD
   url: http://dublincore.org/schemas/xmls/qdc/dcmitype.xsd
-- type: XSD
-  url:
 - type: namespace
   url: http://purl.org/dc/elements/1.1/
 - type: namespace
   url: http://purl.org/dc/terms/
 - type: namespace
   url: http://purl.org/dc/dcmitype/
+
 relatedEntities:
 - id: msc:g1
   role: user
@@ -62,3 +63,4 @@ relatedEntities:
 - id: msc:g90
   role: user
 title: Dublin Core
+acronym: DC

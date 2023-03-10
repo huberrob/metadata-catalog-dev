@@ -5,6 +5,8 @@ description: <p>Developed by the Cooperative Ocean-Atmosphere Research Data Serv
 identifiers:
 - id: msc:m51
   scheme: RDA-MSCWG
+- id: https://doi.org/10.25504/FAIRsharing.9614ca
+  scheme: FAIRsharing
 keywords:
 - Climatology
 - Meteorology

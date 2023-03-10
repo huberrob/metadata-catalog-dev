@@ -2,6 +2,8 @@ description: The da|ra Metadata Schema is a list of core metadata properties cho
 identifiers:
 - id: msc:m1009
   scheme: RDA-MSCWG
+- id: https://fairsharing.org/4651
+  scheme: FAIRsharing
 locations:
 - type: namespace
   url: http://da-ra.de/schema/kernel-4
@@ -17,3 +19,4 @@ title: da|ra Metadata Schema
 keywords:
 - Social policy
 - Sociology
+acronym: da|ra

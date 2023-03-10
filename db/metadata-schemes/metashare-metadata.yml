@@ -1,0 +1,14 @@
+description: In the context of META-SHARE, the term metadata refers to descriptions of Language Resources, encompassing both data sets (textual, multimodal/multimedia and lexical data, grammars, language models etc.) and tools/technologies/services used for their processing.
+identifiers:
+- id: msc:m1012
+  scheme: RDA-MSCWG
+locations:
+  - type: namespace
+    url: http://www.ilsp.gr/META-XMLSchema
+  - type: namespace
+    url: http://w3id.org/meta-share/meta-share/
+title: META-SHARE - Description of Language Resources
+keywords:
+  - Humanities
+  - Linguistics
+acronym: META-SHARE

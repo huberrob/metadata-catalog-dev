@@ -20,6 +20,10 @@ locations:
   url: http://services.ands.org.au/documentation/rifcs/schemadocs/registryObjects.html
 - type: XSD
   url: http://services.ands.org.au/documentation/rifcs/schema/registryObjects.xsd
+- type: namespace
+  url: http://ands.org.au/standards/rif-cs/registryObjects
+- type: namespace
+  url: https://ands.org.au/standards/rif-cs/registryObjects
 relatedEntities:
 - id: msc:g118
   role: maintainer
@@ -43,3 +47,4 @@ versions:
   number: 1.6.2
 - issued: '2018-12-03'
   number: 1.6.3
+acronym: RIF-CS

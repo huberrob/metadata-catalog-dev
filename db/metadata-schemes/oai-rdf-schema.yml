@@ -1,0 +1,13 @@
+description:  Schema to allow inclusion of RDF in OAI-PMH responses
+identifiers:
+- id: msc:m1038
+  scheme: RDA-MSCWG
+locations:
+- type: XSD
+  url: http://www.openarchives.org/OAI/2.0/rdf.xsd
+- type: namespace
+  url: http://www.openarchives.org/OAI/2.0/rdf/
+- type: namespace
+  url: https://api.aiscr.cz/schema/oai_rdf/
+title: OAI-RDF Schema
+acronym: oai-rdf

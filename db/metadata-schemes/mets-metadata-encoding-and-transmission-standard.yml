@@ -1,0 +1,19 @@
+description: The METS schema is a standard for encoding descriptive, administrative, and structural metadata regarding objects within a digital library, expressed using the XML schema language of the World Wide Web Consortium. The standard is maintained by the METS Board in collaboration with the Network Development and MARC Standards Office of the Library of Congress, and started as an initiative of the Digital Library Federation.
+identifiers:
+- id: msc:m1010
+  scheme: RDA-MSCWG
+locations:
+- type: namespace
+  url: http://www.loc.gov/METS/
+- type: XSD
+  url: https://www.loc.gov/standards/mets/profile_docs/mets.profile.v1-2.xsd
+- type: XSD
+  url: https://www.loc.gov/standards/mets/profile_docs/mets.profile.v2-1.xsd
+- type: XSD
+  url: https://www.loc.gov/standards/mets/profile_docs/mets.profile.v2-0.xsd
+- type: document
+  url: https://www.loc.gov/standards/mets/mets-profiles.html
+title: METS - Metadata Encoding and Transmission Standard
+keywords:
+- Multidisciplinary
+acronym: METS

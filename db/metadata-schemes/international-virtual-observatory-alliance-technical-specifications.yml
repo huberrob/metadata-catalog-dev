@@ -26,3 +26,4 @@ relatedEntities:
 - id: msc:g93
   role: user
 title: International Virtual Observatory Alliance Technical Specifications
+acronym: IVOA

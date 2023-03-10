@@ -1,0 +1,11 @@
+description: Clarivate Data Citation Index Schema
+identifiers:
+- id: msc:m1039
+  scheme: RDA-MSCWG
+locations:
+- type: namespace
+  url: https://clarivate.com/products/web-of-science/web-science-form/data-citation-index/
+title: Clarivate Data Citation Index Schema
+keywords:
+- Bibliographic standards
+acronym: dci

@@ -5,6 +5,8 @@ description: 'A standard for encoding archival finding aids using XML in archiva
 identifiers:
 - id: msc:m96
   scheme: RDA-MSCWG
+- id: https://doi.org/10.25504/FAIRsharing.95f59a
+  scheme: FAIRsharing
 keywords:
 - History
 locations:
@@ -12,6 +14,10 @@ locations:
   url: https://www.loc.gov/ead/
 - type: namespace
   url: urn:isbn:1-931666-22-9
+- type: namespace
+  url: http://ead3.archivists.org/schema
+- type: namespace
+  url: http://ead3.archivists.org/schema/
 relatedEntities:
 - id: msc:g104
   role: maintainer
@@ -48,3 +54,4 @@ versions:
   - type: document
     url: https://www.loc.gov/ead/EAD3taglib/EAD3.html
   number: 3-1.1.0
+acronym: ead

@@ -19,3 +19,4 @@ relatedEntities:
 - id: msc:m22
   role: parent scheme
 title: ANZLIC Metadata Profile
+acronym: ANZLIC

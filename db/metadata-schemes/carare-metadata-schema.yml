@@ -4,6 +4,8 @@ description: <p>An application profile of the MIDAS Heritage standard intended f
 identifiers:
 - id: msc:m49
   scheme: RDA-MSCWG
+- id: https://doi.org/10.25504/FAIRsharing.ba7c93
+  scheme: FAIRsharing
 keywords:
 - Archaeology
 - Architecture
@@ -21,3 +23,4 @@ relatedEntities:
 - id: msc:m24
   role: parent scheme
 title: CARARE metadata schema
+acronym: CARARE

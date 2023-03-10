@@ -1,0 +1,8 @@
+title: DSpace Intermediate Metadata Format
+identifiers:
+- id: msc:m1036
+  scheme: RDA-MSCWG
+locations:
+- type: namespace
+  url: http://www.dspace.org/xmlns/dspace/dim
+acronym: dspace-dim

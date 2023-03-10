@@ -4,6 +4,8 @@ description: <p>The National Oceanographic Data Centre's required format for rep
 identifiers:
 - id: msc:m52
   scheme: RDA-MSCWG
+- id: https://doi.org/10.25504/FAIRsharing.e36460
+  scheme: FAIRsharing
 keywords:
 - Climatology
 - Earth sciences
@@ -24,3 +26,4 @@ relatedEntities:
 - id: msc:m22
   role: parent scheme
 title: Cruise Summary Reports
+acronym: CSR

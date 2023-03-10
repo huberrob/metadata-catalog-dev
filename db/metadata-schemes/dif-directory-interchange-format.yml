@@ -7,6 +7,8 @@ description: <p>An early metadata initiative from the Earth sciences community, 
 identifiers:
 - id: msc:m14
   scheme: RDA-MSCWG
+- id: https://doi.org/10.25504/FAIRsharing.esxaaq
+  scheme: FAIRsharing
 keywords:
 - Agriculture
 - Biochemistry
@@ -28,6 +30,10 @@ locations:
   url: http://gcmd.nasa.gov/Aboutus/xml/dif/dif.xsd
 - type: XSD
   url: https://git.earthdata.nasa.gov/projects/EMFD/repos/dif-schemas/browse/10.x/dif.xsd
+- type: namespace
+  url: http://gcmd.gsfc.nasa.gov/Aboutus/xml/dif/
+- type: namespace
+  url: http://gcmd.gsfc.nasa.gov/Aboutus/xml/dif
 relatedEntities:
 - id: msc:g8
   role: user
@@ -42,3 +48,4 @@ relatedEntities:
 - id: msc:g71
   role: user
 title: DIF (Directory Interchange Format)
+acronym: DIF

@@ -1,0 +1,16 @@
+description: ISLE Meta Data Initiative (IMDI) is a metadata standard
+identifiers:
+- id: msc:m1015
+locations:
+- type: namespace
+  url: http://www.mpi.nl/IMDI/Schema/IMDI
+- type: namespace
+  url: http://www.mpi.nl/IMDI/schemas/xsd/
+- type: XSD
+  url: https://www.mpi.nl/IMDI/Schema/IMDI_3.0.xsd
+
+title: IMDI Metadata Standard
+keywords:
+- Humanities
+- Linguistics
+acronym: IMDI

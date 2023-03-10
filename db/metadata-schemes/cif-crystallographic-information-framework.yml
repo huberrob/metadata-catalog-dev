@@ -6,6 +6,8 @@ description: <p>A well-established standard file structure for the archiving and
 identifiers:
 - id: msc:m6
   scheme: RDA-MSCWG
+- id: https://doi.org/10.25504/FAIRsharing.zr52g5
+  scheme: FAIRsharing
 keywords:
 - Chemistry
 - Crystallography
@@ -23,3 +25,4 @@ relatedEntities:
 - id: msc:g27
   role: user
 title: CIF (Crystallographic Information Framework)
+acronym: CIF

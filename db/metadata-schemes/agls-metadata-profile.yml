@@ -17,3 +17,4 @@ relatedEntities:
 - id: msc:m15
   role: parent scheme
 title: AGLS Metadata Profile
+acronym: AGLS

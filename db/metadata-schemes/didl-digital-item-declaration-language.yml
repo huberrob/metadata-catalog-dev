@@ -3,6 +3,8 @@ description: The MPEG-21 Digital Item Declaration Language (DIDL) is a XML-packa
 identifiers:
 - id: msc:m1003
   scheme: RDA-MSCWG
+- id: https://fairsharing.org/4652
+  scheme: FAIRsharing
 locations:
 - type: namespace
   url: urn:mpeg:mpeg21:2002:02-DIDL-NS
@@ -11,3 +13,4 @@ locations:
 title: Digital Item Declaration Language (DIDL)
 keywords:
 - Multidisciplinary
+acronym: DIDL

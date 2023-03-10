@@ -1,0 +1,13 @@
+description: Data Model for Astronomical DataSet Characterisation (CharDM) whose goal is to define and organize all the metadata necessary to describe both quantitatively and, where relevant, qualitatively, the portion of the multidimensional space that an observation (or simulation) product subtends, or it is immersed in.
+identifiers:
+- id: msc:m1029
+  scheme: RDA-MSCWG
+- id: https://doi.org/10.25504/FAIRsharing.yYjZWb
+  scheme: FAIRsharing
+locations:
+- type: website
+  url: https://www.ivoa.net/documents/cover/CharacterisationDM-20070530.html
+- type: XSD
+  url: http://www.ivoa.net/xml/Characterisation/Characterisation-v1.11.xsd
+title: CharDM, Data Model for Astronomical DataSet Characterisation
+acronym: CharDM

@@ -11,4 +11,5 @@ locations:
   url: https://groups.niso.org/apps/group_public/download.php/14833/z39_88_2004_r2010.pdf
 title: The XML ContextObject Format
 keywords:
-  -Multidisciplinary
+- Multidisciplinary
+acronym: CTX

@@ -1,0 +1,22 @@
+description: LIDO, Lightweight Information Describing Objects is an XML harvesting schema. The LIDO schema is intended for delivering metadata, for use in a variety of online services, from an organization’s online collections database to portals of aggregated resources, as well as exposing, sharing, and connecting data on the web.
+identifiers:
+- id: msc:m1018
+  scheme: RDA-MSCWG
+locations:
+- type: XSD
+  url: www.lido-schema.org/schema/latest/lido.xsd
+- type: XSD
+  url: www.lido-schema.org/schema/v1.1/lido-v1.1.xsd
+- type: XSD
+  url: http://www.lido-schema.org/schema/v1.0/lido-v1.0.xsd
+- type: XSD
+  url: http://lido-schema.org/schema/v1.1/lido-v1.1.xsd
+- type: namespace
+  url: http://www.lido-schema.org
+- type: document
+  url: https://cidoc.mini.icom.museum/working-groups/lido/lido-overview/about-lido/what-is-lido/
+title: LIDO, Lightweight Information Describing Objects
+keywords:
+- Humanities
+- Cultural heritage
+acronym: LIDO

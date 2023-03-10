@@ -1,0 +1,31 @@
+description: PRISM Publishing Requirements for Industry Standard Metadata
+identifiers:
+- id: msc:m1027
+  scheme: RDA-MSCWG
+locations:
+- type: document
+  url: https://www.w3.org/Submission/prism
+- type: namespace
+  url: http://prismstandard.org/namespaces/pam/0.0/
+- type: namespace
+  url: http://prismstandard.org/namespaces/pam/1.2/
+- type: namespace
+  url: http://prismstandard.org/namespaces/pam/2.0/
+- type: namespace
+  url: http://prismstandard.org/namespaces/pam/2.1/
+- type: namespace
+  url: http://prismstandard.org/namespaces/pam/3.0/
+- type: namespace
+  url: http://prismstandard.org/namespaces/basic/1.2/
+- type: namespace
+  url: http://prismstandard.org/namespaces/basic/2.0/
+- type: namespace
+  url: http://prismstandard.org/namespaces/basic/1.0/
+- type: namespace
+  url: http://prismstandard.org/namespaces/basic/2.1/
+- type: namespace
+  url: http://prismstandard.org/namespaces/basic/3.0/
+- type: namespace
+  url: http://prismstandard.org/namespaces/pim/1.2/
+title: PRISM Publishing Requirements for Industry Standard Metadata
+acronym: PRISM

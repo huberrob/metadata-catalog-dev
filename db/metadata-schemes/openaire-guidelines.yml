@@ -15,6 +15,14 @@ keywords:
 locations:
 - type: website
   url: https://guidelines.openaire.eu/
+- type: XSD
+  url: https://www.openaire.eu/schema/repo-lit/4.0/openaire.xsd
+- type: namespace
+  url: http://namespace.openaire.eu/schema/oaire/
+- type: namespace
+  url: oai_openaire
+- type: namespace
+  url: https://openaire.eu
 relatedEntities:
 - id: msc:g112
   role: maintainer
@@ -25,3 +33,4 @@ relatedEntities:
 - id: msc:m15
   role: parent scheme
 title: OpenAIRE Guidelines
+acronym: OpenAIRE_G

@@ -4,6 +4,8 @@ description: <p>A Dublin Core Metadata Application Profile created for the eBank
 identifiers:
 - id: msc:m57
   scheme: RDA-MSCWG
+- id: https://doi.org/10.25504/FAIRsharing.ad4856
+  scheme: FAIRsharing
 keywords:
 - Crystallography
 locations:

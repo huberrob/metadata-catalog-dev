@@ -1,0 +1,17 @@
+description: Academic Metadata Format (AMF). AMF encodes descriptions of academics, i.e. researchers who produce academic research; resources created and used by academics; at the moment these cover textual resources only but later non-textual resources like software and datasets may be added; organizations that are important in the academic world, including universities, research centers, academic publishers, scholarly societies, funding agencies etc.
+identifiers:
+- id: msc:m1025
+  scheme: RDA-MSCWG
+- id: https://fairsharing.org/4646
+  scheme: FAIRsharing
+keywords:
+- Multidisciplinary
+locations:
+- type: document
+  url: http://openlib.org/home/krichel/ebisu.html
+- type: namespace
+  url: http://amf.openlib.org
+- type: XSD
+  url: http://amf.openlib.org/2001/amf.xsd
+title: Academic Metadata Format
+acronym: AMF

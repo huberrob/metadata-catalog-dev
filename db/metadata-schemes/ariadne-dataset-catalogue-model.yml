@@ -1,0 +1,30 @@
+description: ACDM is an extension of the Data Catalog Vocabulary (DCAT)
+identifiers:
+- id: msc:m1019
+  scheme: RDA-MSCWG
+- id: https://fairsharing.org/4647
+  scheme: FAIRsharing
+locations:
+- type: XSD
+  url: http://ariadne-registry.dcu.gr/schema_definition/6.7/acdm.xsd
+- type: XSD
+  url: http://ariadne-registry.dcu.gr/schema_definition/6.8/acdm.xsd
+- type: XSD
+  url: http://ariadne-registry.dcu.gr/schema_definition/6.9/acdm.xsd
+- type: XSD
+  url: http://ariadne-registry.dcu.gr/schema_definition/sample_ariadne_xml.xsd
+- type: XSD
+  url: http://ariadne-registry.dcu.gr/schema-definition/sample_ariadne_xml.xsd
+- type: namespace
+  url: http://registry.ariadne-infrastructure.eu/
+- type: namespace
+  url: https://www.ariadne-infrastructure.eu/resource/ao/cat/1.1/
+- type: namespace
+  url: https://www.ariadne-infrastructure.eu/resource/ao/
+- type: namespace
+  url: http://ariadne-registry.dcu.gr/schema-definition
+
+title: ARIADNE Dataset Catalogue Model (ACDM)
+keywords:
+- Archaeology
+acronym: ACDM

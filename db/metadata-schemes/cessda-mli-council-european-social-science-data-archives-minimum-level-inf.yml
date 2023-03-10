@@ -1,7 +1,9 @@
-description: <p>A common base profile of DDI for use by the member archives of CESSDA.</p>
+description: A common base profile of DDI for use by the member archives of CESSDA.
 identifiers:
 - id: msc:m50
   scheme: RDA-MSCWG
+- id: https://fairsharing.org/4272
+  scheme: FAIRsharing
 keywords:
 - Demography
 - Economics

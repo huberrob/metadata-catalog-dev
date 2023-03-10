@@ -12,6 +12,8 @@ description: <p>The <a href="http://www.virtualastronomy.org/avm_metadata.php">A
 identifiers:
 - id: msc:m3
   scheme: RDA-MSCWG
+- id: https://doi.org/10.25504/FAIRsharing.338ze0
+  scheme: FAIRsharing
 keywords:
 - Astronomy
 locations:
@@ -25,3 +27,4 @@ relatedEntities:
 - id: msc:g88
   role: user
 title: AVM (Astronomy Visualization Metadata)
+acronym: AVM

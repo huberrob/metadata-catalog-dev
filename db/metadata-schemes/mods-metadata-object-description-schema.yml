@@ -15,6 +15,10 @@ keywords:
 locations:
 - type: website
   url: http://www.loc.gov/standards/mods/
+- type: namespace
+  url: http://www.loc.gov/mods/v3
+- type: namespace
+  url: http://www.loc.gov/mods/
 relatedEntities:
 - id: msc:m88
   role: parent scheme
@@ -57,3 +61,4 @@ versions:
   - type: XSD
     url: http://www.loc.gov/standards/mods/v3/mods-3-7.xsd
   number: '3.7'
+acronym: MODS

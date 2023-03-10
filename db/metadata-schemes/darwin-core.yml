@@ -7,6 +7,8 @@ description: <p>A body of standards, including a glossary of terms (in other con
 identifiers:
 - id: msc:m9
   scheme: RDA-MSCWG
+- id: https://doi.org/10.25504/FAIRsharing.xvf5y3
+  scheme: FAIRsharing
 keywords:
 - Biogeography
 - Biological diversity
@@ -43,3 +45,4 @@ relatedEntities:
 - id: msc:g94
   role: user
 title: Darwin Core
+acronym: DwC

@@ -6,11 +6,16 @@ description: <p>A set of mandatory metadata that must be registered with the Dat
 identifiers:
 - id: msc:m11
   scheme: RDA-MSCWG
+- id: https://doi.org/10.25504/FAIRsharing.me4qwe
+  scheme: FAIRsharing
 keywords:
 - Multidisciplinary
+acronym: datacite
 locations:
 - type: website
   url: http://schema.datacite.org
+- type: namespace
+  url: http://datacite.org/schema/kernel
 relatedEntities:
 - id: msc:g18
   role: user

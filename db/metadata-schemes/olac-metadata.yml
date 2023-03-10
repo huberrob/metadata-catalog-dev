@@ -1,0 +1,13 @@
+description: OLAC, The Open Language Archives Community metadata format
+identifiers:
+- id: msc:m1014
+locations:
+- type: namespace
+  url: http://www.language-archives.org/OLAC/1.1/
+- type: XSD
+  url: http://www.language-archives.org/OLAC/1.1/olac.xsd
+title: OLAC metadata
+keywords:
+  - Humanities
+  - Linguistics
+acronym: OLAC

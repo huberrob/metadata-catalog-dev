@@ -26,6 +26,10 @@ locations:
   url: https://www.fgdc.gov/schemas/metadata/fgdc-std-001-1998.xsd
 - type: XSD
   url: https://www.fgdc.gov/schemas/metadata/fgdc-std-001.2-2001.xsd
+- type: namespace
+  url: https://www.fgdc.gov/schemas/metadata/
+- type: namespace
+  url: http://www.fgdc.gov/metadata/csdgm/index_html
 relatedEntities:
 - id: msc:g13
   role: user
@@ -33,3 +37,4 @@ relatedEntities:
   role: user
 title: FGDC/CSDGM (Federal Geographic Data Committee Content Standard for Digital
   Geospatial Metadata)
+acronym: fgdc

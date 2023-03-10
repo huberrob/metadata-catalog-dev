@@ -1,0 +1,15 @@
+description: The IVOA VO Registry provides a mechanism with which VO applications can discover and select resources that are relevant for a particular scientific problem.
+identifiers:
+- id: msc:m1035
+  scheme: RDA-MSCWG
+locations:
+- type: document
+  url: https://www.ivoa.net/documents/RegistryInterface/20180723/REC-RegistryInterface-1.1.html
+- type: namespace
+  url: http://www.ivoa.net/xml/VORegistry/v1.0
+- type: namespace
+  url: http://www.ivoa.net/xml/RegistryInterface/v1.0
+title: IVOA Registry Interfaces
+acronym: ivoa-reg
+keywords:
+- Astronomy

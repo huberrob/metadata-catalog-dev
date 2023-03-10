@@ -14,9 +14,14 @@ keywords:
 locations:
 - type: document
   url: http://www.english-heritage.org.uk/content/publications/publicationsNew/guidelines-standards/midas-heritage/midas-heritage-2012-v1_1.pdf
+- type: document
+  url: https://historicengland.org.uk/images-books/publications/midas-heritage/
 - type: website
   url: http://www.english-heritage.org.uk/publications/midas-heritage/
+- type: namespace
+  url: http://www.heritage-standards.org/midas/schema/1.0
 relatedEntities:
 - id: msc:g38
   role: user
 title: MIDAS-Heritage
+acronym: MIDAS

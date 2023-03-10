@@ -1,0 +1,13 @@
+description: OCLC PICA defines a representation to encode PICA or PICA+ in XML. PICA+ is the internal metadata format that is used in the CBS and LBS software by OCLC PICA
+title: OCLC PICA XML
+identifiers:
+- id: msc:m1037
+  scheme: RDA-MSCWG
+locations:
+- type: namespace
+  url: info:srw/schema/5/picaXML-v1.0
+- type: namespace
+  url: http://www.oclcpica.org/xmlns/ppxml-1.0
+- type: XSD
+  url: http://www.oclcpica.org/xml/picaplus.xsd
+acronym: pica

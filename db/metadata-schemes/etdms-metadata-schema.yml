@@ -1,0 +1,22 @@
+description:  A standard set of metadata elements used to describe an electronic thesis or dissertation.
+identifiers:
+- id: msc:m1017
+locations:
+- type: namespace
+  url: http://www.ndltd.org/standards/metadata/etdms/1.1/
+- type: namespace
+  url: http://www.ndltd.org/standards/metadata/etdms/1.0/
+- type: XSD
+  url: http://www.ndltd.org/standards/metadata/etdms/1.1/etdms11.xsd
+- type: XSD
+  url: http://www.ndltd.org/standards/metadata/etdms/1.1/etdmsdc.xsd
+- type: XSD
+  url: http://www.ndltd.org/standards/metadata/etdms/1.1/etdmsdcterms.xsd
+- type: XSD
+  url: http://www.ndltd.org/standards/metadata/etdms/1.0/etdms.xsd
+- type: namespace
+  url: http://www.ndltd.org/standards/metadata/etdms/1-0/
+title: ETD-MS an Interoperability Metadata Standard for Electronic Theses and Dissertations
+keywords:
+- Multidisciplinary
+acronym: ETD-MS

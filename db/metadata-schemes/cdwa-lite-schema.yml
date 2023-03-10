@@ -1,0 +1,20 @@
+description: The purpose of this schema is to describe a format for core records for works of art and material culture, based on the data elements and guidelines contained in the Categories for the Description of Works of Art (CDWA) and Cataloging Cultural Objects (CCO)
+identifiers:
+- id: msc:m1030
+  scheme: RDA-MSCWG
+- id: https://fairsharing.org/4649
+  scheme: FAIRsharing
+locations:
+- type: document
+  url: https://www.getty.edu/research/publications/electronic_publications/cdwa/cdwalite.pdf
+- type: namespace
+  url: https://www.getty.edu/CDWA/CDWALite
+- type: XSD
+  url: http://www.getty.edu/CDWA/CDWALite/CDWALite-xsd-public-v1-1.xsd
+- type: XSD
+  url: http://www.getty.edu/CDWA/CDWALite/CDWALite-xsd-public-v1-0.xsd
+title: CDWA Lite
+keywords:
+- Humanities
+- Cultural heritage
+acronym: cdwa-lite

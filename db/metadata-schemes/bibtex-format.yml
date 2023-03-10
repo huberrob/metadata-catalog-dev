@@ -1,0 +1,17 @@
+description: BibTeX stands for a tool and a file format which are used to describe and process lists of references, mostly in conjunction with LaTeX documents.
+identifiers:
+- id: msc:m1034
+  scheme: RDA-MSCWG
+- id: https://doi.org/10.25504/FAIRsharing.bdf2fe
+  scheme: FAIRsharing
+locations:
+- type: document
+  url: http://www.bibtex.org/
+- type: namespace
+  url: http://clarin-pl.eu/ns/experimental/bibtex
+- type: namespace
+  url: http://lindat.mff.cuni.cz/ns/experimental/bibtex
+- type: namespace
+  url: http://repository.clarin.dk/ns/experimental/bibtex
+title: BibTeX
+acronym: BibTeX

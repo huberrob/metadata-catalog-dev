@@ -1,0 +1,11 @@
+description: XOAI is the internal XMl format provided by XOAI which is the most powerful and flexible OAI-PMH Java Toolkit (initially developed by Lyncode). Now XOAI is the default metadata format used by DSPACE.
+identifiers:
+- id: msc:m1026
+  scheme: RDA-MSCWG
+locations:
+- type: document
+  url: https://github.com/DSpace/xoai
+- type: namespace
+  url: http://www.lyncode.com/xoai
+title: XOAI, a DSPACE Metadata Format
+acronym: XOAI

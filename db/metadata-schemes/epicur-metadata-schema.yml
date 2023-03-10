@@ -1,0 +1,15 @@
+description: xepicur - XML-Datentransferformat zur Verwaltung von URN
+identifiers:
+- id: msc:m1021
+  scheme: RDA-MSCWG
+locations:
+- type: namespace
+  url: urn:nbn:de:1111-2004033116
+- type: XSD
+  url:  https://files.dnb.de/Web/xepicur.xsd
+- type: document
+  url: https://wiki.dnb.de/display/URNSERVDOK/xepicur+-+XML-Datentransferformat+zur+Verwaltung+von+URN
+title: xepicur
+acronym: epicur
+
+

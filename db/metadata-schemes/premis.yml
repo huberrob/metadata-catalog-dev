@@ -18,6 +18,8 @@ locations:
   url: http://www.loc.gov/standards/premis/v3/premis-3-0-final.pdf
 - type: website
   url: http://www.loc.gov/standards/premis/
+- type: namespace
+  url: http://www.loc.gov/standards/premis
 relatedEntities:
 - id: msc:g104
   role: maintainer
@@ -27,3 +29,4 @@ title: PREMIS
 versions:
 - issued: '2015-06-10'
   number: 3.0
+acronym: premis

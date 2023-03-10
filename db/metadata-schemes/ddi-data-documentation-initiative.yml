@@ -11,6 +11,10 @@ description: <p>A widely used, international standard for describing data from t
 identifiers:
 - id: msc:m13
   scheme: RDA-MSCWG
+- id: https://doi.org/10.25504/FAIRsharing.1t5ws6
+  scheme: FAIRsharing
+- id: https://doi.org/10.25504/FAIRsharing.EZCpPd
+  scheme: FAIRsharing
 keywords:
 - Demography
 - Economics
@@ -40,6 +44,12 @@ locations:
   url: ddi:dataset:3_2
 - type: namespace
   url: ddi:dataset:3_1
+- type: namespace
+  url: ddi:instance:3_1
+- type: namespace
+  url: ddi:instance:3_2
+- type: namespace
+  url: ddi:instance:3_3
 - type: namespace
   url: ddi:dataset:3_0
 - type: XSD
@@ -83,3 +93,4 @@ versions:
 - number: '3.2'
   title: DDI Lifecycle
   valid: '2014-03-12'
+acronym: DDI

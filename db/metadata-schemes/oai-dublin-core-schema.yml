@@ -1,0 +1,17 @@
+description: Open Archive Initiative Dublin Core schema , adjusted for usage in the OAI-PMH. Schema imports the Dublin Core elements from the DCMI schema for unqualified Dublin Core
+identifiers:
+- id: msc:m1044
+  scheme: RDA-MSCWG
+keywords:
+- Multidisciplinary
+locations:
+- type: namespace
+  url: https://resources.bepress.com/OAI/2.0/qualified-dublin-core/
+- type: XSD
+  url: http://www.openarchives.org/OAI/2.0/oai_dc.xsd
+- type: namespace
+  url: http://www.openarchives.org/OAI/2.0/oai_dc/
+- type: namespace
+  url: http://www.openarchives.org/OAI/2.0/oai_dc
+title: Open Archive Initiative Dublin Core (OAI DC)
+acronym: oai_dc

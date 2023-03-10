@@ -1,0 +1,15 @@
+description: This schema defines the request and response messages for the CSW-Publication operations
+identifiers:
+- id: msc:m1032
+  scheme: RDA-MSCWG
+- id: https://fairsharing.org/4650
+  scheme: FAIRsharing
+- type: XSD
+  url: http://schemas.opengis.net/csw/2.0.2/CSW-publication.xsd
+- type: namespace
+  url: http://www.opengis.net/cat/csw/2.0.2
+title: Catalogue Service for the Web
+acronym: CSW
+keywords:
+- Cartography
+- Earth sciences

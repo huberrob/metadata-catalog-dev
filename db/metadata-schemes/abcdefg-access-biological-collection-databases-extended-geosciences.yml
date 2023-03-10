@@ -19,3 +19,4 @@ relatedEntities:
 - id: msc:m1
   role: parent scheme
 title: ABCDEFG (Access to Biological Collection Databases Extended for Geosciences)
+acronym: ABCDEFG

@@ -1,0 +1,12 @@
+description: museumdat – Harvesting Format for Providing Core Data from Museum Holdings
+identifiers:
+- id: msc:m1031
+  scheme: RDA-MSCWG
+locations:
+- type: XSD
+  url: http://museum.zib.de/museumdat/museumdat-v1.0.xsd
+title: museumdat
+keywords:
+- Humanities
+- Cultural heritage
+acronym: museumdat

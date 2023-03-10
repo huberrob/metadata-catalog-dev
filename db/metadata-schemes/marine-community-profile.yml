@@ -12,9 +12,18 @@ keywords:
 - Meteorology
 - Oceanography
 locations:
+- type: document
+  url: https://mcp-profile-docs.readthedocs.io/en/stable/
 - type: website
   url: http://www.aodc.org.au/index.php?id=37
+- type: namespace
+  url: http://schemas.aodn.org.au/mcp-2.0
+- type: namespace
+  url: http://schemas.aodn.org.au
+- type: XSD
+  url: http://schemas.aodn.org.au/mcp-2.0/schema.xsd
 relatedEntities:
 - id: msc:m22
   role: parent scheme
-title: Marine Community Profile
+title: AODN Marine Community Profile
+acronym: AODN

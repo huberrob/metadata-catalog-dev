@@ -31,6 +31,14 @@ locations:
   url: http://www.isotc211.org/2005/gmd/gmd.xsd
 - type: namespace
   url: http://www.isotc211.org/2005/gmd
+- type: namespace
+  url: http://standards.iso.org/iso/19115/-3/mds/2.0
+- type: namespace
+  url: http://standards.iso.org/iso/19115/-3/mds/1.0
+- type: namespace
+  url: http://standards.iso.org/iso/19115/-3/mdb/2.0
+- type: namespace
+  url: http://bluenet3.antcrc.utas.edu.au/mcp
 relatedEntities:
 - id: msc:g6
   role: user
@@ -51,3 +59,4 @@ relatedEntities:
 - id: msc:g56
   role: user
 title: ISO 19115
+acronym: ISO19115

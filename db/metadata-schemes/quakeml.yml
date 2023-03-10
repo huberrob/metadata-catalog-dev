@@ -20,9 +20,10 @@ locations:
   url: http://quakeml.org/xmlns/quakeml/1.0
 - type: website
   url: https://quake.ethz.ch/quakeml
--type: document
+- type: document
   url: http://www.quakeml.org/
 title: QuakeML
 keywords:
 - Earth sciences
 - Geophysics
+acronym: QuakeML

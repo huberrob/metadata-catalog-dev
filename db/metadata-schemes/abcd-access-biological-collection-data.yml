@@ -45,3 +45,4 @@ relatedEntities:
 - id: msc:g45
   role: user
 title: ABCD (Access to Biological Collection Data)
+acronym: ABCD

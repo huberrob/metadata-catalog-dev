@@ -1,0 +1,16 @@
+description: ONIX for Books Product Information Message
+identifiers:
+- id: msc:m1042
+  scheme: RDA-MSCWG
+locations:
+- type: document
+  url: https://www.editeur.org/files/ONIX%203/APPNOTE%20Describing%20e-books%20in%20ONIX.pdf
+- type: namespace
+  url: http://www.editeur.org/onix/2.1/short
+- type: XSD
+  url: http://www.editeur.org/onix/2.1/short/ONIX_BookProduct_Release2.1_short
+title: ONIX for Books Product Information Message
+keywords:
+- Bibliographic standards
+- Information/library standards
+acronym: onix

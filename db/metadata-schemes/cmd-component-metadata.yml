@@ -3,6 +3,8 @@ description: The Component MetaData Infrastructure (CMDI) was initiated by CLARI
 identifiers:
 - id: msc:m1005
   scheme: RDA-MSCWG
+- id: https://doi.org/10.25504/FAIRsharing.2e0599
+  scheme: FAIRsharing
 locations:
 - type: namespace
   url: http://www.clarin.eu/cmd/
@@ -12,7 +14,21 @@ locations:
   url: https://www.clarin.eu/content/component-metadata
 - type: document
   url: https://pure.mpg.de/pubman/faces/ViewItemOverviewPage.jsp?itemId=item_1480943
-title: Component MetaData (CMD)
+- type: namespace
+  url: http://www.clarin.eu/cmd/1
+- type: XSD
+  url: http://infra.clarin.eu/CMDI/1.x/xsd/cmd-envelop.xsd
+- type: XSD
+  url: http://catalog.clarin.eu/ds/ComponentRegistry/rest/registry/profiles/clarin.eu:cr1:p_1290431694484/xsd
+- type: XSD
+  url: https://infra.clarin.eu/CMDI/1.x/xsd/cmd-envelop.xsd
+- type: XSD
+  url: http://www.clarin.eu/cmd/1/profiles/clarin.eu:cr1:p_1290431694484
+- type: XSD
+  url: https://catalog.clarin.eu/ds/ComponentRegistry/rest/registry/1.x/profiles/clarin.eu:cr1:p_1290431694484/xsd
+
+title: Component MetaData Specification (CMDI)
 keywords:
 - Linguistics
 - Languages
+acronym: CMDI

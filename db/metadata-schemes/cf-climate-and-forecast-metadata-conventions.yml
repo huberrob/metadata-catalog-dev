@@ -8,6 +8,8 @@ description: <p>The CF standard was originally framed as a standard for data wri
 identifiers:
 - id: msc:m5
   scheme: RDA-MSCWG
+- id: https://doi.org/10.25504/FAIRsharing.f8cd83
+  scheme: FAIRsharing
 keywords:
 - Climatology
 - Meteorology
@@ -33,3 +35,4 @@ relatedEntities:
 - id: msc:g92
   role: user
 title: CF (Climate and Forecast) Metadata Conventions
+acronym: CF

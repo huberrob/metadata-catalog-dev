@@ -1,0 +1,15 @@
+description: Atom defines a feed format for representing and a protocol for editing Web resources such as Weblogs, online journals, Wikis, and similar content. The feed format enables syndication; that is, provision of a channel of information by representing multiple resources in a single document.
+identifiers:
+- id: msc:m1013
+  scheme: RDA-MSCWG
+- id: https://fairsharing.org/4648
+  scheme: FAIRsharing
+keywords:
+- Multidisciplinary
+locations:
+- type: namespace
+  url: https://www.w3.org/2005/Atom
+- type: namespace
+  url: http://www.w3.org/2005/Atom
+title: The Atom Syndication Format
+acronym: ATOM

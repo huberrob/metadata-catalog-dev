@@ -1,0 +1,17 @@
+description: XmetaDiss (plus) ist ein Metadatenformat fuer Online-Hochschulschriften aufbauend auf DublinCore, ETD-MS und interen Metdaten in der Deutschen Nationalbibliothek
+identifiers:
+- id: msc:m1043
+  scheme: RDA-MSCWG
+locations:
+- type: XSD
+  url: https://d-nb.info/standards/schema/xmetadissplus.xsd
+- type: namespace
+  url: http://www.d-nb.de/standards/xmetadissplus/
+- type: namespace
+  url: http://www.d-nb.de/standards/xMetaDiss/
+title: XmetaDiss
+keywords:
+- Multidisciplinary
+- Bibliographic standards
+- Information/library standards
+acronym: xmetadiss

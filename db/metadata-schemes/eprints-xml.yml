@@ -1,0 +1,11 @@
+description: EPrints Repository Software Export XML Format
+identifiers:
+- id: msc:m1023
+keywords:
+- Multidisciplinary
+
+locations:
+- type: namespace
+  url: http://eprints.org/ep2/data/2.0
+title: EPrints XML
+acronym: EPrints

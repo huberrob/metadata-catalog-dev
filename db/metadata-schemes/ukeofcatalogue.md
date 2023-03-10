@@ -1,4 +1,3 @@
----
 title: UKEOF Monitoring Catalogue
 slug: ukeofcatalogue
 website: https://catalogue.ukeof.org.uk

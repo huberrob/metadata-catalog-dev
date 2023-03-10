@@ -7,6 +7,7 @@ identifiers:
 - id: msc:m88
   scheme: RDA-MSCWG
 keywords:
+- Multidisciplinary
 - Bibliographic standards
 - Information/library standards
 locations:
@@ -16,6 +17,13 @@ locations:
   url: http://www.loc.gov/marc/bibliographic/
 - type: XSD
   url: http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd
+- type: XSD
+  url: https://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd
+- type: namespace
+  url: http://www.loc.gov/MARC21/slim
+- type: namespace
+  url: http://www.ddb.de/professionell/MARC21/plus
+
 relatedEntities:
 - id: msc:g104
   role: maintainer
@@ -107,3 +115,4 @@ versions:
 - issued: '2018-11-09'
   number: '27'
   title: MARC 21
+acronym: MARC

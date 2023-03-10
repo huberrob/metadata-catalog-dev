@@ -1,0 +1,20 @@
+description: Europeana Data Model (EDM)
+identifiers:
+- id: msc:m1033
+  scheme: RDA-MSCWG
+- id: https://fairsharing.org/4653
+  scheme: FAIRsharing
+locations:
+- type: document
+  url: https://pro.europeana.eu/page/edm-documentation
+- type: namespace
+  url: http://www.europeana.eu/schemas/edm/
+- type: namespace
+  url: http://www.europeana.eu/schemas/edm
+- type: namespace
+  url: http://www.europeana.eu/schemas/ese/
+title: Europeana Data Model (EDM)
+keywords:
+- Humanities
+- Cultural heritage
+acronym: EDM

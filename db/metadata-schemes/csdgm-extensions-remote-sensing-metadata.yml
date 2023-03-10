@@ -4,6 +4,8 @@ description: <p>An extension to the FGDC/CSDGM metadata standard providing a com
 identifiers:
 - id: msc:m53
   scheme: RDA-MSCWG
+- id: https://fairsharing.org/1445
+  scheme: FAIRsharing
 keywords:
 - Climatology
 - Hydrology
@@ -16,3 +18,4 @@ relatedEntities:
 - id: msc:m17
   role: parent scheme
 title: CSDGM Extensions for Remote Sensing Metadata
+acronym: CSDGM

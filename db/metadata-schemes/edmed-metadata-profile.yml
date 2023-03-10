@@ -3,6 +3,8 @@ description: <p>The European Directory of Marine Environmental Datasets metadata
 identifiers:
 - id: msc:m58
   scheme: RDA-MSCWG
+- id: https://doi.org/10.25504/FAIRsharing.ed7f20
+  scheme: FAIRsharing
 keywords:
 - Climatology
 - Ecology

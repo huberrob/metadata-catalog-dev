@@ -3,6 +3,8 @@ description: <p>A protocol-independent XML schema for a geospatial extension to 
 identifiers:
 - id: msc:m54
   scheme: RDA-MSCWG
+- id: https://doi.org/10.25504/FAIRsharing.76c06d
+  scheme: FAIRsharing
 keywords:
 - Biogeography
 - Cartography
@@ -14,3 +16,4 @@ relatedEntities:
 - id: msc:m9
   role: parent scheme
 title: Darwin Core Geospatial Extension
+acronym: DwC-S

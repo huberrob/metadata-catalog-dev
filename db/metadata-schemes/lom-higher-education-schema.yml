@@ -1,0 +1,13 @@
+description: LOM for Higher Education OER Repositories, Beschreibung zur XML Schema Definition des Metadatenprofils für Open Educational Resources im Hochschulbereich
+identifiers:
+- id: msc:m1024
+  scheme: RDA-MSCWG
+locations:
+- type: document
+  url: https://dini-ag-kim.github.io/hs-oer-lom-profil/latest/
+- type: namespace
+  url: https://www.oerbw.de/hsoerlom
+- type: XSD
+  url: https://w3id.org/kim/hs-oer-lom-profil/latest/schemas/hs-oer-lom.xsd
+title: LOM for Higher Education OER Repositories
+acronym: LOM

@@ -1,0 +1,16 @@
+description:  Journal Article Tag Suite is an application of NISO Z39.96-2019. The Journal Publishing Tag Set is a moderately prescriptive set, optimized for the archives who wish to regularize and control their content, not to accept the sequence and arrangement presented to them by any particular publisher.
+identifiers:
+- id: msc:m1041
+  scheme: RDA-MSCWG
+locations:
+- type: document
+  url: http://jats.nlm.nih.gov/publishing/
+- type: XSD
+  url: https://jats.nlm.nih.gov/publishing/1.0/xsd/JATS-journalpublishing1.xsd
+- type: namespace
+  url: http://jats.nlm.nih.gov/publishing/1.0
+title: Journal Publishing Tag Set (Jats)
+keywords:
+- Bibliographic standards
+- Information/library standards
+acronym: jats

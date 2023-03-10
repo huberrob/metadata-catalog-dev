@@ -1,0 +1,15 @@
+description: OpenAIRE Research Graph
+identifiers:
+- id: msc:m1020
+  scheme: RDA-MSCWG
+locations:
+- type: namespace
+  url: http://namespace.openaire.eu/oaf
+- type: document
+  url: https://www.openaire.eu/schema/latest/doc/oaf.html
+- type: XSD
+  url: https://www.openaire.eu/schema/1.0/oaf-1.0.xsd
+title: OpenAIRE Research Graph
+keywords:
+- Multidisciplinary
+acronym: OpenAIRE_RG

@@ -1,0 +1,32 @@
+description: Unspecified various qualified versions of Dublin Core
+identifiers:
+- id: msc:m1022
+  scheme: RDA-MSCWG
+- id: https://doi.org/10.25504/FAIRsharing.3nx7t
+  scheme: FAIRsharing
+keywords:
+- Multidisciplinary
+locations:
+- type: namespace
+  url: urn:dc:qdc:container
+- type: namespace
+  url: figshare:oai:qdc
+- type: namespace
+  url: http://naca.central.cranfield.ac.uk/ethos-oai/2.0/
+- type: namespace
+  url: http://ora.ox.ac.uk/oai-pmh/metadata-formats/solo_dc
+- type: XSD
+  url: https://cocoon.huma-num.fr/schemas/dcq.xsd
+- type: namespace
+  url: http://crdo.risc.cnrs.fr/schemas/dcq/
+- type: namespace
+  url: http://oai.base-search.net/base_dc/
+- type: namespace
+  url: http://oai.base-search.net/base_dc
+- type: XSD
+  url: http://oai.base-search.net/base_dc/base_dc.xsd
+relatedEntities:
+- id: msc:m15
+  role: parent
+title: Qualified Dublin Core
+acronym: QDC

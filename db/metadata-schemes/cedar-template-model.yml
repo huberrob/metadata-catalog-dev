@@ -4,6 +4,8 @@ description: Describes the format of the generic metadata artifacts—the templa
 identifiers:
 - id: msc:m94
   scheme: RDA-MSCWG
+- id: https://doi.org/10.25504/FAIRsharing.V527H4
+  scheme: FAIRsharing
 keywords:
 - Administration
 - Agricultural research
@@ -20,3 +22,4 @@ versions:
   - type: document
     url: https://more.metadatacenter.org/sites/default/files/artifact/CEDAR%20Template%20Model%20v1.5.0_0.pdf
   number: 1.5.0
+acronym: CEDAR

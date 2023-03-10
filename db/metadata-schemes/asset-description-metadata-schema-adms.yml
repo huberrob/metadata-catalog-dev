@@ -5,6 +5,8 @@ description: '<p>Used to describe semantic assets, defined as highly reusable me
 identifiers:
 - id: msc:m48
   scheme: RDA-MSCWG
+- id: https://doi.org/10.25504/FAIRsharing.es2t25
+  scheme: FAIRsharing
 keywords:
 - Social policy
 locations:
@@ -16,3 +18,4 @@ relatedEntities:
 - id: msc:m12
   role: parent scheme
 title: Asset Description Metadata Schema (ADMS)
+acronym: ADMS

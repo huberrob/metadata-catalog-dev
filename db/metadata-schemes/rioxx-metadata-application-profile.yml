@@ -7,6 +7,12 @@ locations:
   url: http://www.rioxx.net/schema/v2.0/rioxx/
 - type: website
   url: https://www.rioxx.net/
+- type: namespace
+  url: https://www.rioxx.net/schema/v2.0/rioxxterms/
+- type: namespace
+  url: http://docs.rioxx.net/schema/v1.0/
+
 title: RIOXX Metadata Application Profile
 keywords:
 - Multidisciplinary
+acronym: rioxx

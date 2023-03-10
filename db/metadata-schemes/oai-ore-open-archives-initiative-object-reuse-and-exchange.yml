@@ -20,3 +20,4 @@ relatedEntities:
 - id: msc:g81
   role: user
 title: OAI-ORE (Open Archives Initiative Object Reuse and Exchange)
+acronym: OAI-ORE
